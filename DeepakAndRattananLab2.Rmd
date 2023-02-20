@@ -10,6 +10,43 @@ output: html_notebook
 </ul> 
 
 
+Importing the libraries and the CSV File
+
+```{r}
+library(tidyverse)
+```
+```{r}
+data <- read_csv("Hot100.csv")
+```
+
+```{r}
+data
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
