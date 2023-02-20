@@ -1,0 +1,6 @@
+---
+title: "Lab2 - Deepak and Rattanan"
+output: html_notebook
+---
+# Lab 2 - Deepak and Rattanan
+
