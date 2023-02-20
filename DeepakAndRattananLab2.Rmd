@@ -2,5 +2,14 @@
 title: "Lab2 - Deepak and Rattanan"
 output: html_notebook
 ---
-# Lab 2 - Deepak and Rattanan
+
+### We would like to convery two stories <br> 
+<ul> 
+  <li> How consumption of music has been changed throughout the years </li>
+  <li> <span style = 'color:blue'> Top 10 songs </span> that have the highest instance impact for specific artists </li>
+</ul> 
+
+
+
+
 
